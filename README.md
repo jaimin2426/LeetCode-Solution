@@ -58,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
