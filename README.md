@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Dynamic Programming
 |  |
@@ -80,11 +81,13 @@
 | [0027-remove-element](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -101,4 +104,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
