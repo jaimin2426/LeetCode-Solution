@@ -87,6 +87,7 @@
 | ------- |
 | [0392-is-subsequence](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0415-add-strings) |
+| [0551-student-attendance-record-i](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0551-student-attendance-record-i) |
 | [0844-backspace-string-compare](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 ## Breadth-First Search
 |  |
