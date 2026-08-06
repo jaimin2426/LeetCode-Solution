@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0101-symmetric-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
@@ -30,6 +31,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -39,6 +41,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0101-symmetric-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -49,6 +52,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0101-symmetric-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Matrix
 |  |
