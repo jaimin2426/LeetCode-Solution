@@ -80,6 +80,7 @@
 | [0009-palindrome-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0202-happy-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0415-add-strings) |
 | [0551-student-attendance-record-i](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0551-student-attendance-record-i) |
 | [0844-backspace-string-compare](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
