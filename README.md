@@ -84,6 +84,7 @@
 | [0009-palindrome-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0415-add-strings) |
 ## Two Pointers
@@ -128,6 +129,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Linked List
 |  |
@@ -137,6 +139,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
