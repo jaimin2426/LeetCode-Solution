@@ -105,6 +105,7 @@
 | [0415-add-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0415-add-strings) |
 | [0551-student-attendance-record-i](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0551-student-attendance-record-i) |
 | [0844-backspace-string-compare](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
+| [1592-rearrange-spaces-between-words](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1592-rearrange-spaces-between-words) |
 ## Breadth-First Search
 |  |
 | ------- |
