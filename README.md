@@ -34,6 +34,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0231-power-of-two) |
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
