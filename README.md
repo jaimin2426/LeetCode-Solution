@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0724-find-pivot-index](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0202-happy-number) |
