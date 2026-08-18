@@ -19,6 +19,7 @@
 | [0001-two-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Tree
 |  |
@@ -108,6 +109,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0415-add-strings) |
