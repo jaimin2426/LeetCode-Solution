@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0035-search-insert-position) |
@@ -110,6 +111,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0392-is-subsequence) |
@@ -179,4 +181,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
