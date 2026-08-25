@@ -108,6 +108,7 @@
 | [0011-container-with-most-water](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -170,6 +172,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -195,4 +198,16 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0011-container-with-most-water) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
