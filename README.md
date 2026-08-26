@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0724-find-pivot-index](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0724-find-pivot-index) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@
 | [0141-linked-list-cycle](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Tree
 |  |
@@ -102,6 +104,7 @@
 | [0367-valid-perfect-square](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0415-add-strings) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,4 +213,20 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Number Theory
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
