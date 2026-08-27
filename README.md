@@ -35,6 +35,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1302-deepest-leaves-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 ## Design
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1302-deepest-leaves-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 ## Data Stream
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
+| [1302-deepest-leaves-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -134,6 +137,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0101-symmetric-tree) |
+| [1302-deepest-leaves-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 ## Prefix Sum
 |  |
 | ------- |
