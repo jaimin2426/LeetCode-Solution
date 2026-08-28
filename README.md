@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0724-find-pivot-index](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0724-find-pivot-index) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Hash Table
@@ -81,6 +82,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Simulation
 |  |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0011-container-with-most-water) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0807-max-increase-to-keep-city-skyline) |
 ## Z Algorithm
 |  |
 | ------- |
