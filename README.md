@@ -17,6 +17,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Simulation
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0894-all-possible-full-binary-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0894-all-possible-full-binary-trees) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Math
 |  |
 | ------- |
