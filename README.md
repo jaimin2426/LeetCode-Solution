@@ -16,6 +16,7 @@
 | [0078-subsets](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0419-battleships-in-a-board](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
+| [0695-max-area-of-island](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -91,6 +92,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0695-max-area-of-island) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1302-deepest-leaves-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
+| [0695-max-area-of-island](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0695-max-area-of-island) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -162,6 +165,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0101-symmetric-tree) |
+| [0695-max-area-of-island](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0695-max-area-of-island) |
 | [1302-deepest-leaves-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 ## Prefix Sum
 |  |
@@ -274,4 +278,8 @@
 | [0022-generate-parentheses](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0078-subsets) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
