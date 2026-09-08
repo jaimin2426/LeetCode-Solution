@@ -32,6 +32,7 @@
 | [0763-partition-labels](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0763-partition-labels) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0392-is-subsequence](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0894-all-possible-full-binary-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0894-all-possible-full-binary-trees) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Math
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0551-student-attendance-record-i](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0551-student-attendance-record-i) |
 | [0763-partition-labels](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1592-rearrange-spaces-between-words](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1592-rearrange-spaces-between-words) |
 ## Breadth-First Search
 |  |
@@ -171,6 +174,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0724-find-pivot-index) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -193,6 +197,7 @@
 | [0078-subsets](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Linked List
 |  |
 | ------- |
