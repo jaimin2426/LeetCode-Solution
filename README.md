@@ -60,6 +60,7 @@
 | [0367-valid-perfect-square](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Heap (Priority Queue)
 |  |
@@ -136,6 +137,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0415-add-strings) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0392-is-subsequence](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0763-partition-labels](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 ## String
 |  |
 | ------- |
@@ -232,6 +235,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0278-first-bad-version) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 ## Bracket Sequences
 |  |
 | ------- |
