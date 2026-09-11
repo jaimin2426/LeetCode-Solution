@@ -39,6 +39,7 @@
 | [0101-symmetric-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
@@ -50,12 +51,14 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0069-sqrtx) |
+| [0173-binary-search-tree-iterator](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0278-first-bad-version](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -72,6 +75,7 @@
 | [0101-symmetric-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
@@ -194,6 +198,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
@@ -297,4 +302,8 @@
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0841-keys-and-rooms) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
