@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0078-subsets) |
@@ -107,6 +108,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0419-battleships-in-a-board](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0695-max-area-of-island) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0070-climbing-stairs) |
