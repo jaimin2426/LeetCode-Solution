@@ -47,6 +47,7 @@
 | [0572-subtree-of-another-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0894-all-possible-full-binary-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0894-all-possible-full-binary-trees) |
+| [0951-flip-equivalent-binary-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1302-deepest-leaves-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -83,6 +84,7 @@
 | [0572-subtree-of-another-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0894-all-possible-full-binary-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0894-all-possible-full-binary-trees) |
+| [0951-flip-equivalent-binary-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1302-deepest-leaves-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -102,6 +104,7 @@
 | [0572-subtree-of-another-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0841-keys-and-rooms) |
+| [0951-flip-equivalent-binary-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1302-deepest-leaves-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
