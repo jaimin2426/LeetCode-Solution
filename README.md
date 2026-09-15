@@ -24,6 +24,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0931-minimum-falling-path-sum) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1706-where-will-the-ball-fall](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1706-where-will-the-ball-fall) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,12 +119,14 @@
 | [0931-minimum-falling-path-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0931-minimum-falling-path-sum) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1706-where-will-the-ball-fall](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1706-where-will-the-ball-fall) |
 ## Simulation
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1706-where-will-the-ball-fall](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1706-where-will-the-ball-fall) |
 ## Dynamic Programming
 |  |
 | ------- |
