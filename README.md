@@ -25,6 +25,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0931-minimum-falling-path-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0931-minimum-falling-path-sum) |
 | [0937-reorder-data-in-log-files](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0937-reorder-data-in-log-files) |
+| [0973-k-closest-points-to-origin](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1706-where-will-the-ball-fall](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1706-where-will-the-ball-fall) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Tree
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0415-add-strings) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0973-k-closest-points-to-origin](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 ## Two Pointers
 |  |
@@ -209,6 +212,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -304,6 +308,7 @@
 |  |
 | ------- |
 | [0937-reorder-data-in-log-files](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0937-reorder-data-in-log-files) |
+| [0973-k-closest-points-to-origin](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Backtracking
 |  |
@@ -325,4 +330,16 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0173-binary-search-tree-iterator) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
