@@ -192,6 +192,7 @@
 | [0763-partition-labels](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 | [0937-reorder-data-in-log-files](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0937-reorder-data-in-log-files) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1592-rearrange-spaces-between-words](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1592-rearrange-spaces-between-words) |
 ## Breadth-First Search
@@ -224,6 +225,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
