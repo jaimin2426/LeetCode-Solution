@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0216-combination-sum-iii) |
 | [0289-game-of-life](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0278-first-bad-version](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
@@ -172,6 +174,7 @@
 | [0027-remove-element](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0392-is-subsequence) |
