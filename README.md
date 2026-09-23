@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0216-combination-sum-iii) |
 | [0289-game-of-life](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0289-game-of-life) |
+| [0347-top-k-frequent-elements](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0724-find-pivot-index) |
@@ -38,6 +39,7 @@
 | [0141-linked-list-cycle](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0763-partition-labels](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0763-partition-labels) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -79,6 +81,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Tree
@@ -222,6 +225,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
@@ -302,6 +306,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Number Theory
 |  |
@@ -318,6 +323,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0937-reorder-data-in-log-files](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0937-reorder-data-in-log-files) |
 | [0973-k-closest-points-to-origin](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -348,9 +354,14 @@
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
