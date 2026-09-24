@@ -13,6 +13,7 @@
 | [0039-combination-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0078-subsets) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
@@ -193,6 +195,7 @@
 | [0020-valid-parentheses](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0392-is-subsequence) |
@@ -325,6 +328,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0937-reorder-data-in-log-files](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0937-reorder-data-in-log-files) |
 | [0973-k-closest-points-to-origin](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
