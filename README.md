@@ -23,6 +23,7 @@
 | [0289-game-of-life](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
+| [0690-employee-importance](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -42,6 +43,7 @@
 | [0202-happy-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0690-employee-importance](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0690-employee-importance) |
 | [0763-partition-labels](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0763-partition-labels) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -56,6 +58,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
+| [0690-employee-importance](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0690-employee-importance) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0894-all-possible-full-binary-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0894-all-possible-full-binary-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0951-flip-equivalent-binary-trees) |
@@ -116,6 +119,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
+| [0690-employee-importance](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0841-keys-and-rooms) |
 | [0951-flip-equivalent-binary-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0951-flip-equivalent-binary-trees) |
@@ -213,6 +217,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0101-symmetric-tree) |
+| [0690-employee-importance](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0841-keys-and-rooms) |
 | [1302-deepest-leaves-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
