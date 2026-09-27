@@ -20,6 +20,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
@@ -224,6 +225,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Memoization
