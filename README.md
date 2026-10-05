@@ -163,6 +163,7 @@
 | [0070-climbing-stairs](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
 | [0894-all-possible-full-binary-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0894-all-possible-full-binary-trees) |
@@ -213,6 +214,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -362,6 +364,7 @@
 | [0046-permutations](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0216-combination-sum-iii) |
 ## Union-Find
 |  |
