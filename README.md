@@ -15,6 +15,7 @@
 | [0048-rotate-image](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
@@ -164,6 +166,7 @@
 | [0022-generate-parentheses](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
