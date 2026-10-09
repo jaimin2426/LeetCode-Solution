@@ -130,6 +130,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0341-flatten-nested-list-iterator) |
 | [0419-battleships-in-a-board](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
@@ -287,6 +288,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -430,4 +432,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0062-unique-paths) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
