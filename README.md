@@ -36,6 +36,7 @@
 | [0937-reorder-data-in-log-files](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0937-reorder-data-in-log-files) |
 | [0973-k-closest-points-to-origin](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1014-best-sightseeing-pair](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1014-best-sightseeing-pair) |
 | [1048-longest-string-chain](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1048-longest-string-chain) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -178,6 +179,7 @@
 | [0647-palindromic-substrings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
 | [0894-all-possible-full-binary-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0894-all-possible-full-binary-trees) |
 | [0931-minimum-falling-path-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0931-minimum-falling-path-sum) |
+| [1014-best-sightseeing-pair](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1014-best-sightseeing-pair) |
 | [1048-longest-string-chain](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1525-number-of-good-ways-to-split-a-string) |
