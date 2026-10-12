@@ -241,6 +241,7 @@
 | [0937-reorder-data-in-log-files](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0937-reorder-data-in-log-files) |
 | [1048-longest-string-chain](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1048-longest-string-chain) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1592-rearrange-spaces-between-words](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1592-rearrange-spaces-between-words) |
 ## Breadth-First Search
@@ -428,6 +429,7 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Queue
 |  |
 | ------- |
