@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0289-game-of-life) |
@@ -90,6 +91,7 @@
 | [0069-sqrtx](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0173-binary-search-tree-iterator) |
+| [0209-minimum-size-subarray-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -257,6 +259,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -430,6 +433,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
