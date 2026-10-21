@@ -54,6 +54,7 @@
 | [0205-isomorphic-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0398-random-pick-index](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0398-random-pick-index) |
+| [0567-permutation-in-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0690-employee-importance](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0690-employee-importance) |
 | [0763-partition-labels](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0763-partition-labels) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -218,6 +219,7 @@
 | [0202-happy-number](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
@@ -239,6 +241,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0415-add-strings) |
 | [0551-student-attendance-record-i](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0551-student-attendance-record-i) |
+| [0567-permutation-in-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
@@ -434,6 +437,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
