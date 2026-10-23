@@ -54,6 +54,7 @@
 | [0205-isomorphic-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0398-random-pick-index](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0398-random-pick-index) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0690-employee-importance](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0690-employee-importance) |
 | [0763-partition-labels](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0763-partition-labels) |
@@ -240,6 +241,7 @@
 | [0392-is-subsequence](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0415-add-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
@@ -437,6 +439,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
