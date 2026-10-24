@@ -31,6 +31,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0690-employee-importance](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -99,6 +100,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0704-binary-search](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
