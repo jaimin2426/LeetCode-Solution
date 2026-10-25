@@ -17,6 +17,7 @@
 | [0053-maximum-subarray](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -155,6 +157,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0419-battleships-in-a-board) |
