@@ -43,6 +43,7 @@
 | [0937-reorder-data-in-log-files](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0937-reorder-data-in-log-files) |
 | [0973-k-closest-points-to-origin](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-best-sightseeing-pair](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1014-best-sightseeing-pair) |
 | [1048-longest-string-chain](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1048-longest-string-chain) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -110,6 +111,7 @@
 | [0704-binary-search](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jaimin2426/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Heap (Priority Queue)
