@@ -48,6 +48,7 @@
 | [1048-longest-string-chain](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1048-longest-string-chain) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1706-where-will-the-ball-fall](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1706-where-will-the-ball-fall) |
 ## Hash Table
 |  |
@@ -114,6 +115,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jaimin2426/LeetCode-Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
